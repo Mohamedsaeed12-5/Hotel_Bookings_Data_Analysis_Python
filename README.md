@@ -66,10 +66,10 @@ We tested four classification models:
 
 ## 📂 Files Included
 
-- `Hotel_Bookings_(1).ipynb`: Full notebook with EDA and ML
-- `final_report.pdf`: Final version of the project report
-- `original_version.docx`: Draft version
-- `final_version.docx`: Cleaned and formatted version
+- `Hotel_Bookings_Code.ipynb`: Full notebook with EDA and ML
+- `Final_report.pdf`: Final version of the project report
+- `hotel_bookings_Dataset.csv`: The Original Dataset
+- `Cleaning_Dataset.csv`: Cleaned and formatted version
 - `README.md`: This documentation file
 
 ---
@@ -77,7 +77,7 @@ We tested four classification models:
 ## 🚀 How to Run
 
 1. Clone this repository or download the files
-2. Open `Hotel_Bookings_(1).ipynb` in Jupyter Notebook or Google Colab
+2. Open `Hotel_Bookings_Code.ipynb` in Jupyter Notebook or Google Colab
 3. Run all cells to follow the full analysis and modeling process
 
 ### 📦 Required Libraries
