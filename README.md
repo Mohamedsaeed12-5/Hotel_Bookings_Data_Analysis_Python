@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-Dashboard-yellow?logo=python)
+![Python](https://img.shields.io/badge/Python-Dashboard-gray?logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
